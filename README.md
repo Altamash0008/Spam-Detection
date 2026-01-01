@@ -72,7 +72,7 @@ The model classifies SMS messages as "Spam" or "Ham (Not Spam)" using Natural La
 ## Screenshots
 
     1. Home Page
-        ![Home Page](screenshots_spam/spam_app_home.png.jpeg)
+        ![Home Page](screenshots_spam/spam_app_home.jpeg)
 
     2. Predictions
         ![Prediction Result](screenshots_spam/prediction_spam.jpeg)
