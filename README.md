@@ -68,3 +68,12 @@ The model classifies SMS messages as "Spam" or "Ham (Not Spam)" using Natural La
 - Allows user to input a message and receive:
     - Spam / Not Spam prediction
     - Confidence score
+
+## Screenshots
+
+    1. Home Page
+        ![Home Page](screenshots_spam/spam_app_home.png.jpeg)
+
+    2. Predictions
+        ![Prediction Result](screenshots_spam/prediction_spam.jpeg)
+        ![Prediction Result](screenshots_spam/prediction_ham.jpeg)
